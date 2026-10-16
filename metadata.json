@@ -1,0 +1,6 @@
+{
+  "name": "Ruhuna BICT Academic Marks & CGPA Intelligence Suite",
+  "description": "Comprehensive academic marks management, continuous assessment tracking, cohort ranking, and predictive CGPA target planner for University of Ruhuna BICT undergraduates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
